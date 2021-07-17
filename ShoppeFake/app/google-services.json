@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370523763571",
+    "firebase_url": "https://shoppefake-a6215-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shoppefake-a6215",
+    "storage_bucket": "shoppefake-a6215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370523763571:android:e798fbc265bd8fb2960b06",
+        "android_client_info": {
+          "package_name": "com.example.shoppefake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370523763571-e3g3jh0vi1n3ach2djb1c481i438c2b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQwr0oboBQpfL2K79WOXBaIcidHgzv1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370523763571-e3g3jh0vi1n3ach2djb1c481i438c2b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
